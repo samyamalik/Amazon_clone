@@ -41,7 +41,7 @@ amazon-clone/
 2. **Open in Browser**
 
    Simply open `index.html` in your web browser to view the page.
-
+ 
 ---
 
 
