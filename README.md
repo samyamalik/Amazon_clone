@@ -34,7 +34,7 @@ amazon-clone/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/amazon-clone.git
+   https://github.com/samyamalik/Amazon_clone.git
    cd amazon-clone
    ```
 
@@ -44,13 +44,6 @@ amazon-clone/
 
 ---
 
-
-
-## 📸 Screenshots
-
-> Add some screenshots here if you want to showcase the layout!
-
----
 
 ## 📝 Notes
 
